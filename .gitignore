@@ -1,0 +1,5 @@
+bin
+.vscode
+objappsettings.json
+objappsettings.Development.json
+*.csproj
