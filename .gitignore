@@ -1,5 +1,4 @@
 bin
 .vscode
-objappsettings.json
-objappsettings.Development.json
-*.csproj
+appsettings.json
+appsettings.Development.json
